@@ -8,7 +8,7 @@ layout: doc
 </script>
 
 # About Me
-![portfolio image](img/about-photo.JPG)
+![portfolio image](img/about-photo.PNG)
 
 ## Who is "me"?
 I'm Marcelo, a Senior at MIT studying Course 6-3 (Computer Science). I'm from the US, but I traveled a lot when I was younger. I'm also a photographer, mostly shooting street and landscape photography.
