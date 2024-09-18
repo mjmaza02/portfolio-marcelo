@@ -1,10 +1,8 @@
 ---
-title: Blog 1
+title: Lecture _
 layout: doc
 ---
 
-# Blog 1
+# Lecture _
 
-Write some cool stuff here!
-
-**Bold**
+***(TODO - FINISH)***
